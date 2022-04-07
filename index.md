@@ -8,7 +8,7 @@ Descripción del evento
 
 **Epigenética**
 
-**Pez cebra y epigenética**
+**Epigenética de pez cebra**
 
 **Casos de estudio: poblaciones humanas**
 
@@ -57,6 +57,7 @@ Proyecto CB2016 288306 / Dr. Miguel Betancourt Lozano
 Centro de Investigación en Alimentación y Desarrollo A.C.
 Laboratorio de Ecotoxicología
 www.ecotoxlabmzt.com
+ecotox@ciad.mx
 
 
 
