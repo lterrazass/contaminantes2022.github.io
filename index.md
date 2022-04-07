@@ -2,6 +2,18 @@
 
 Descripción del evento
 
+## Temas
+
+**Especies modelo para estudios generacionales**
+
+**Epigenética**
+
+**Pez cebra y epigenética**
+
+**Casos de estudio: poblaciones humanas**
+
+**Bioinformática y secuenciación**
+
 ## Ponentes invitados
 
 Alejandra Medina, LIIGH-UNAM  [https://liigh.unam.mx/profile/dra-alejandra-medina-rivera/](url)
@@ -28,17 +40,7 @@ Isabel Hernández, CINVESTAV  [https://toxicologia.cinvestav.mx/DraHernandezOcho
 
 Juan Riesgo, INb-UNAM  [http://www.maestria.inb.unam.mx/?product=riesgo-escovar-juan-rafael](url)
 
-## Temas
 
-**Especies modelo para estudios generacionales**
-
-**Epigenética**
-
-**Pez cebra y epigenética**
-
-**Casos de estudio: poblaciones humanas**
-
-**Bioinformática y secuenciación**
 
 **Bold** and _Italic_ and `Code` text
 
