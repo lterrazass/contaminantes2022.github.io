@@ -1,8 +1,8 @@
-## Contaminantes 2022
+# Contaminantes 2022
 
 Descripción del evento
 
-### Ponentes invitados
+## Ponentes invitados
 
 xxxx
 xxxx
@@ -10,15 +10,7 @@ xxx
 xxxx
 xxx
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+## Temas
 
 **Bold** and _Italic_ and `Code` text
 
