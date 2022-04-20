@@ -1,6 +1,19 @@
 # Efectos de los contaminantes: implicaciones generacionales
 
-Descripción del evento
+Este es un registro para el ciclo de conferencias "Efectos de los contaminantes: implicaciones generacionales", el cual se llevará a cabo los días miércoles 11,  jueves 12 y viernes 13 de mayo del 2022. Se le solicita amablemente revisar que sus datos sean correctos, ya que se a través de ellos se enviará toda la información relacionada, así como la generación de su constancia, en caso de contar con la asistencia al ciclo completo.
+
+Detalles del evento
+
+●	El evento será gratuito.
+
+●	El programa se enviará por correo en los próximos días.
+
+●	Se contará con cupo limitado de participantes tanto de manera presencial como virtual.
+
+●	Para participar en el evento es OBLIGATORIO llenar la forma de registro.
+
+●	Las instrucciones de acceso para los participantes les serán enviadas por medio de correo electrónico.
+
 
 ## Temas
 
