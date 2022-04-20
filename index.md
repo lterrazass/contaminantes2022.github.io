@@ -18,29 +18,37 @@ Descripción del evento
 
 8:15 - 8:30
 Inauguración/Bienvenida 
+
 Dr. Miguel Betancourt Lozano (CIAD)
+
 
 8:30 - 9:30
 Pez cebra  
+
 Dra. Denhí Schnabel (IBt, UNAM) 
 
 9:30 - 10:30
 C. elegans
+
 POR CONFIRMAR
 
 10:30 - 11:30
 Drosophila 
+
 Dr. Juan Riesgo Escovar (INb, UNAM)
 
 11:30 - 12:00
+
 Receso
 
 12:00 - 13:00
 Ratón 
+
 Dra. Isabel Hernández (CINVESTAV)
 
 13:00 - 14:00
 “Efectos generacionales de los contaminantes en los rotíferos”
+
 Dr. Roberto Rico Martinez (UAA)
 
 
@@ -49,52 +57,70 @@ Dr. Roberto Rico Martinez (UAA)
 **Segundo Bloque: Epigenética**
 
 9:00 - 10:00
-Mecanismos epigenéticos  Dra. Alejandra García (CIAD, Mazatlán)
+Mecanismos epigenéticos  
+
+Dra. Alejandra García (CIAD, Mazatlán)
 
 10:00 - 11:00
 “Técnicas para el estudio de alteraciones epigenéticas”
- Dr. Raúl Llera (ICML, UNAM)
+
+Dr. Raúl Llera (ICML, UNAM)
 
 11:00 - 11:30
+
 Receso
 
 11:30 - 14:00
-Herramientas bioinformáticas y estrategias para estudiar mecanismos reguladores de genes (Alejandra Medina Rivera/LIIGH-UNAM) 
+Herramientas bioinformáticas y estrategias para estudiar mecanismos reguladores de genes 
+
+Dra. Alejandra Medina Rivera(LIIGH-UNAM) 
 
 
 **13 de mayo**
 **Tercer Bloque: Pez cebra y epigenética**
 
 8:30 - 9:30
-Sex in Zebrafish: Deciphering (Epi)genomic Mechanisms - Laia Ribas (ICM-CSIC) 
+Sex in Zebrafish: Deciphering (Epi)genomic Mechanisms 
+
+Laia Ribas (ICM-CSIC) 
 
 09:30 - 10:30
 “Marcadores conductuales y epigenéticos por exposición al arsénico modelados en el pez cebra”
+
 Dr. Ulises Bardullas (UABC)  
 
 10:30 - 11:30
-Regulación de genes y afectaciones en el desarrollo - Dr. Ariel Bazzini (Stowers Institute for Medical Research) VC
+Regulación de genes y afectaciones en el desarrollo
+
+Dr. Ariel Bazzini (Stowers Institute for Medical Research) VC
 
 11:30 - 12:00
+
 Receso /  Foto de asistentes
  
-Receso  COMIDA
+Receso  
+
+COMIDA
  
 **Bloque 4:  Casos de estudio: poblaciones humanas**
 
 14:00 – 15:00
 Efectos de contaminantes atmosféricos en mujeres embarazadas y niños 
+
 Dra. Isabel Alvarado  (University of Arizona)
 
 15:00 – 16:00
 “Alteraciones epigenéticas durante la gestación: ambiente intrauterino, programación fetal y efectos en la salud” 
+
 Dra. Alejandra García (CIAD) 
 
 16:00 - 17:00
 Plaguicidas en campesinos de Nayarit  - 
+
 Dra. Aurora Rojas (UAN)/ Francisco Herrera (UAN)
  
  17:00 - 17:30
+
 Clausura del evento Vivo/VC
 
 
