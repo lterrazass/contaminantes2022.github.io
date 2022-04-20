@@ -59,14 +59,14 @@ Modelo: Murinos
 Dra. Isabel Hernández (CINVESTAV)
 
 #### 13:00 - 14:00
-“Efectos generacionales de los contaminantes en los rotíferos”
+Modelo: Rotíferos 
 
 Dr. Roberto Rico Martinez (UAA)
 
 ### 12 de mayo - Segundo Bloque: Epigenética
 
 #### 9:00 - 10:00
-Mecanismos epigenéticos  
+"Mecanismos epigenéticos"
 
 Dra. Alejandra García (CIAD, Mazatlán)
 
@@ -80,7 +80,7 @@ Dr. Raúl Llera (ICML, UNAM)
 Receso
 
 #### 11:30 - 14:00
-Herramientas bioinformáticas y estrategias para estudiar mecanismos reguladores de genes 
+"Herramientas bioinformáticas y estrategias para estudiar mecanismos reguladores de genes"
 
 Dra. Alejandra Medina Rivera(LIIGH-UNAM) 
 
@@ -88,7 +88,7 @@ Dra. Alejandra Medina Rivera(LIIGH-UNAM)
 ### 13 de mayo - Tercer Bloque: Pez cebra y epigenética
 
 #### 8:30 - 9:30
-Sex in Zebrafish: Deciphering (Epi)genomic Mechanisms 
+"Sex in Zebrafish: Deciphering (Epi)genomic Mechanisms"
 
 Laia Ribas (ICM-CSIC) 
 
@@ -98,7 +98,7 @@ Laia Ribas (ICM-CSIC)
 Dr. Ulises Bardullas (UABC)  
 
 #### 10:30 - 11:30
-Regulación de genes y afectaciones en el desarrollo de pez cebra
+"Regulación de genes y afectaciones en el desarrollo de pez cebra"
 
 Dr. Ariel Bazzini (Stowers Institute for Medical Research)
 
@@ -113,7 +113,7 @@ COMIDA
 ### Bloque 4:  Casos de estudio: poblaciones humanas
 
 #### 14:00 – 15:00
-Efectos de contaminantes atmosféricos en mujeres embarazadas y niños 
+"Efectos de contaminantes atmosféricos en mujeres embarazadas y niños"
 
 Dra. Isabel Alvarado  (University of Arizona)
 
@@ -123,9 +123,9 @@ Dra. Isabel Alvarado  (University of Arizona)
 Dra. Alejandra García (CIAD) 
 
 #### 16:00 - 17:00
-Plaguicidas en campesinos de Nayarit  - 
+“Panorama actual de la epigenética y biomarcadores de envejecimiento por exposición a contaminantes ambientales en poblaciones de México”
 
-Dra. Aurora Rojas (UAN)/ Francisco Herrera (UAN)
+Francisco Herrera (Columbia University, UAN)
  
 #### 17:00 - 17:30
 
