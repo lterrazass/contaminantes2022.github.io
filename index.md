@@ -13,7 +13,7 @@ Descripción del evento
 
 ## Programa preliminar
 
- ### 11 de mayo Primer Bloque: Especies modelo para estudios generacionales
+ ### 11 de mayo - Primer Bloque: Especies modelo para estudios generacionales
 
 #### 8:15 - 8:30
 Inauguración/Bienvenida 
@@ -50,7 +50,7 @@ Dra. Isabel Hernández (CINVESTAV)
 
 Dr. Roberto Rico Martinez (UAA)
 
-### 12 de mayo Segundo Bloque: Epigenética
+### 12 de mayo - Segundo Bloque: Epigenética
 
 #### 9:00 - 10:00
 Mecanismos epigenéticos  
@@ -97,7 +97,7 @@ Receso
 
 COMIDA
 
-**Bloque 4:  Casos de estudio: poblaciones humanas**
+### Bloque 4:  Casos de estudio: poblaciones humanas
 
 #### 14:00 – 15:00
 Efectos de contaminantes atmosféricos en mujeres embarazadas y niños 
