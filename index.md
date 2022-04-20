@@ -54,7 +54,7 @@ Dr. Juan Riesgo Escovar (INb, UNAM)
 Receso
 
 #### 12:00 - 13:00
-Modelo: Ratón 
+Modelo: Murinos 
 
 Dra. Isabel Hernández (CINVESTAV)
 
