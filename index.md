@@ -98,9 +98,9 @@ Laia Ribas (ICM-CSIC)
 Dr. Ulises Bardullas (UABC)  
 
 #### 10:30 - 11:30
-Regulación de genes y afectaciones en el desarrollo
+Regulación de genes y afectaciones en el desarrollo de pez cebra
 
-Dr. Ariel Bazzini (Stowers Institute for Medical Research) VC
+Dr. Ariel Bazzini (Stowers Institute for Medical Research)
 
 #### 11:30 - 12:00
 
