@@ -119,7 +119,7 @@ Dra. Aurora Rojas (UAN)/ Francisco Herrera (UAN)
  
  17:00 - 17:30
 
-Clausura del evento Vivo/VC
+Clausura del evento 
 
 
 ## Organizadores
