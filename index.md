@@ -23,17 +23,17 @@ Dr. Miguel Betancourt Lozano (CIAD)
 
 
 8:30 - 9:30
-Pez cebra  
+Modelo: _Danio rerio_ (Pez cebra)  
 
 Dra. Denhí Schnabel (IBt, UNAM) 
 
 9:30 - 10:30
-C. elegans
+Modelo: _C. elegans_
 
 POR CONFIRMAR
 
 10:30 - 11:30
-Drosophila 
+Modelo: _Drosophila_  
 
 Dr. Juan Riesgo Escovar (INb, UNAM)
 
@@ -42,7 +42,7 @@ Dr. Juan Riesgo Escovar (INb, UNAM)
 Receso
 
 12:00 - 13:00
-Ratón 
+Modelo: Ratón 
 
 Dra. Isabel Hernández (CINVESTAV)
 
