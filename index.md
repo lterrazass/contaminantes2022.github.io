@@ -125,7 +125,7 @@ Dra. Alejandra García (CIAD)
 #### 16:00 - 17:00
 “Panorama actual de la epigenética y biomarcadores de envejecimiento por exposición a contaminantes ambientales en poblaciones de México”
 
-Francisco Herrera (Columbia University, UAN)
+Dr. Francisco Herrera (Columbia University, UAN)
  
 #### 17:00 - 17:30
 
