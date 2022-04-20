@@ -13,7 +13,7 @@ Descripción del evento
 
 ## Programa preliminar
 
- **11 de mayo**
+ ### 11 de mayo
  **Primer Bloque: Especies modelo para estudios generacionales**
 
 8:15 - 8:30
@@ -51,9 +51,7 @@ Dra. Isabel Hernández (CINVESTAV)
 
 Dr. Roberto Rico Martinez (UAA)
 
-
- 
-**12 de mayo**
+### 12 de mayo
 **Segundo Bloque: Epigenética**
 
 9:00 - 10:00
@@ -76,7 +74,7 @@ Herramientas bioinformáticas y estrategias para estudiar mecanismos reguladores
 Dra. Alejandra Medina Rivera(LIIGH-UNAM) 
 
 
-**13 de mayo**
+### 13 de mayo
 **Tercer Bloque: Pez cebra y epigenética**
 
 8:30 - 9:30
@@ -101,7 +99,7 @@ Receso /  Foto de asistentes
 Receso  
 
 COMIDA
- 
+
 **Bloque 4:  Casos de estudio: poblaciones humanas**
 
 14:00 – 15:00
@@ -122,9 +120,6 @@ Dra. Aurora Rojas (UAN)/ Francisco Herrera (UAN)
  17:00 - 17:30
 
 Clausura del evento Vivo/VC
-
-
-
 
 
 ## Organizadores
