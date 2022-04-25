@@ -54,12 +54,12 @@ Dr. Juan Riesgo Escovar (INb, UNAM)
 Receso
 
 #### 12:00 - 13:00
-Modelo: Murinos 
+“Efectos reproductivos transgeneracionales de contaminantes en el modelo de ratón”
 
 Dra. Isabel Hernández (CINVESTAV)
 
 #### 13:00 - 14:00
-Modelo: Rotíferos 
+“Efectos generacionales de los contaminantes en los rotíferos”
 
 Dr. Roberto Rico Martinez (UAA)
 
