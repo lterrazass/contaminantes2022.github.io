@@ -35,7 +35,7 @@ Dr. Miguel Betancourt Lozano (CIAD)
 
 
 #### 8:30 - 9:30
-Modelo: _Danio rerio_ (Pez cebra)  
+"Usando al Pez cebra como modelo de toxicología" 
 
 Dra. Denhí Schnabel (IBt, UNAM) 
 
