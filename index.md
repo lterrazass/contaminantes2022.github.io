@@ -40,9 +40,9 @@ Dr. Miguel Betancourt Lozano (CIAD)
 Dra. Denhí Schnabel (IBt, UNAM) 
 
 #### 9:30 - 10:30
-Modelo: _C. elegans_
+“Exposicición a metales pesados: efectos generacionales en C. elegans modelo de Alzheimer”
 
-POR CONFIRMAR
+Dr. José Miguel Chin Chan (FCQB-UAC)
 
 #### 10:30 - 11:30
 Modelo: _Drosophila_  
