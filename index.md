@@ -113,7 +113,7 @@ COMIDA
 ### Bloque 4:  Casos de estudio: poblaciones humanas
 
 #### 14:00 – 15:00
-"Modificaciones epigenéticas asociadas a contaminantes atmosféricos en poblaciones suceptibles"
+"Modificaciones epigenéticas asociadas a contaminantes atmosféricos en poblaciones susceptibles"
 
 Dra. Isabel Alvarado  (University of Arizona)
 
