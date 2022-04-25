@@ -113,7 +113,7 @@ COMIDA
 ### Bloque 4:  Casos de estudio: poblaciones humanas
 
 #### 14:00 – 15:00
-"Efectos de contaminantes atmosféricos en mujeres embarazadas y niños"
+"Modificaciones epigenéticas asociadas a contaminantes atmosféricos en poblaciones suceptibles"
 
 Dra. Isabel Alvarado  (University of Arizona)
 
