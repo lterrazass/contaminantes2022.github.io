@@ -82,7 +82,7 @@ Receso
 #### 11:30 - 14:00
 "Herramientas bioinformáticas y estrategias para estudiar mecanismos reguladores de genes"
 
-Dra. Alejandra Medina Rivera(LIIGH-UNAM) 
+Dra. Alejandra Medina Rivera (LIIGH-UNAM) 
 
 
 ### 13 de mayo - Tercer Bloque: Pez cebra y epigenética
