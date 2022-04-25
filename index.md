@@ -131,7 +131,7 @@ Dr. Francisco Herrera (Columbia University, UAN)
 
 Clausura del evento 
 
-Dra. Beatriz Yáñez & Dr. Miguel Betancourt
+Dra. Beatriz Yáñez & Dr. Miguel Betancourt (CIAD)
 
 
 ## Organizadores
