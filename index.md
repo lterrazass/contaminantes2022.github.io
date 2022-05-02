@@ -37,7 +37,7 @@ Dr. Miguel Betancourt Lozano (CIAD)
 #### 8:30 - 9:30
 "Usando al pez cebra como modelo de toxicología" 
 
-Dra. Denhí Schnabel (IBt, UNAM) 
+Dra. Denhí Schnabel Peraza (IBt, UNAM) 
 
 #### 9:30 - 10:30
 “Exposicición a metales pesados: efectos generacionales en C. elegans modelo de Alzheimer”
@@ -56,7 +56,7 @@ Receso
 #### 12:00 - 13:00
 “Efectos reproductivos transgeneracionales de contaminantes en el modelo de ratón”
 
-Dra. Isabel Hernández (CINVESTAV)
+Dra. Isabel Hernández Ochoa (CINVESTAV)
 
 #### 13:00 - 14:00
 “Efectos generacionales de los contaminantes en los rotíferos”
@@ -68,12 +68,12 @@ Dr. Roberto Rico Martinez (UAA)
 #### 9:00 - 10:00
 "Mecanismos epigenéticos"
 
-Dra. Alejandra García (CIAD, Mazatlán)
+Dra. Alejandra García Gasca (CIAD, Mazatlán)
 
 #### 10:00 - 11:00
 “Técnicas para el estudio de alteraciones epigenéticas”
 
-Dr. Raúl Llera (ICML, UNAM)
+Dr. Raúl Llera Herrera (ICML, UNAM)
 
 #### 11:00 - 11:30
 
@@ -115,23 +115,23 @@ COMIDA
 #### 14:00 – 15:00
 "Modificaciones epigenéticas asociadas a contaminantes atmosféricos en poblaciones susceptibles"
 
-Dra. Isabel Alvarado  (University of Arizona)
+Dra. Isabel Alvarado Cruz  (University of Arizona)
 
 #### 15:00 – 16:00
 “Alteraciones epigenéticas durante la gestación: ambiente intrauterino, programación fetal y efectos en la salud” 
 
-Dra. Alejandra García (CIAD) 
+Dra. Alejandra García Gasca (CIAD) 
 
 #### 16:00 - 17:00
 “Panorama actual de la epigenética y biomarcadores de envejecimiento por exposición a contaminantes ambientales en poblaciones de México”
 
-Dr. Francisco Herrera (Columbia University, UAN)
+Dr. Francisco Herrera Moreno (Columbia University, UAN)
  
 #### 17:00 - 17:30
 
 Clausura del evento 
 
-Dra. Beatriz Yáñez & Dr. Miguel Betancourt (CIAD)
+Dra. Beatriz Yáñez Rivera & Dr. Miguel Betancourt Lozano (CIAD)
 
 
 ## Organizadores
