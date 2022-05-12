@@ -113,9 +113,9 @@ COMIDA
 ### Bloque 4:  Casos de estudio: poblaciones humanas
 
 #### 14:00 – 15:00
-"Modificaciones epigenéticas asociadas a contaminantes atmosféricos en poblaciones susceptibles"
+"Influencia de la exposición a plaguicidas sobre la metilación del ADN en una población de indígenas Huicholes"
 
-Dra. Isabel Alvarado Cruz  (University of Arizona)
+Dra. Diana Marcela Paredes Céspedes  ( Instituto Nacional de Salud Bogotá, UAN)
 
 #### 15:00 – 16:00
 “Alteraciones epigenéticas durante la gestación: ambiente intrauterino, programación fetal y efectos en la salud” 
